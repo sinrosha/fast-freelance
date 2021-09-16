@@ -1,0 +1,4 @@
+.about {
+  background-color: green;
+  /* composes: globalabout from "../assets/styles/local.module.css"; */
+}

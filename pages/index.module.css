@@ -1,0 +1,5 @@
+@value globalhome from "../assets/styles/local.module.css";
+.home {
+  background-color: red;
+  composes: globalhome;
+}
