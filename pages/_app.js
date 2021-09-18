@@ -1,4 +1,4 @@
-// import '../assets/styles/global.css';
+import "../assets/styles/global.css"
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;

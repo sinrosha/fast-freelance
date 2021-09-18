@@ -1,5 +1,4 @@
-@value globalhome from "../assets/styles/local.module.css";
 .home {
-  background-color: red;
-  composes: globalhome;
+  background-color: #ff0000;
+  @apply py-2;
 }

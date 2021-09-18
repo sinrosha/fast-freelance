@@ -1,0 +1,93 @@
+{
+  "title" : "Home",
+  "canonical" : "/",
+  "metatags" : [
+    {
+      "name" : "keywords",
+      "content" : "fast freelance"
+    },
+    {
+      "name" : "description",
+      "content" : "This the home page"
+    },
+    {
+      "name": "robots",
+      "content": "index,follow"
+    },
+    {
+      "name": "googlebot",
+      "content": "index,follow"
+    },
+    {
+      "name": "google-site-verification",
+      "content": "dd"
+    },
+    {
+      "name": "theme-color",
+      "content": "#fff"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary"
+    },
+    {
+      "name": "twitter:site",
+      "content": "@sinrosha"
+    },
+    {
+      "name": "twitter:creator",
+      "content": "@sinrosha"
+    },
+    {
+      "name": "twitter:url",
+      "content": "website_url"
+    },
+    {
+      "name": "twitter:title",
+      "content": "twitter:title"
+    },
+    {
+      "name": "twitter:description",
+      "content": "twitter:description"
+    },
+    {
+      "name": "twitter:image:src",
+      "content": "twitter:image:src"
+    }
+  ],
+  "ogTags": [
+    {
+      "property": "og:url",
+      "content": "web url"
+    },
+    {
+      "property": "og:type",
+      "content": "Website"
+    },
+    {
+      "property": "og:title",
+      "content": "web url"
+    },
+    {
+      "property": "og:image",
+      "content": "og:image"
+    },
+    {
+      "property": "og:image:alt",
+      "content": "og:image:alt"
+    },
+    {
+      "property": "og:description",
+      "content": "og:description"
+    },
+    {
+      "property": "og:site_name",
+      "content": "og:site_name"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    }
+  ],
+  "scripts": []
+}
