@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import content from "@/content/404.json";
 import BaseLayout from '@/components/Layout/BaseLayout/BaseLayout';
-import styles from "./404.module.scss"
+import styles from "./404.module.css"
 
 const FourOFour = () => {
 

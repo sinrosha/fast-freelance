@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start"
   },
   "dependencies": {
@@ -10,7 +10,8 @@
     "next-pwa": "^5.3.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "sass": "^1.42.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.4",
