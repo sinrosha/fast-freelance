@@ -1,0 +1,26 @@
+{
+  "title" : "404",
+  "metatags" : [
+    {
+      "name" : "keywords",
+      "content" : "error page, not found, 404"
+    },
+    {
+      "name" : "description",
+      "content" : "This is a 404 page"
+    },
+    {
+      "name": "robots",
+      "content": "index,follow"
+    },
+    {
+      "name": "googlebot",
+      "content": "index,follow"
+    },
+    {
+      "name": "theme-color",
+      "content": "#3abab4"
+    }
+  ],
+  "scripts": []
+}
